@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Splitmate</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="overview">Overview</string>
+    <string name="splitgroups">Splitgroups</string>
+    <string name="expenses">Expenses</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login2">LoginActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repeat_email">Repeat E-mail</string>
+    <string name="emails_must_match">The provided e-mails do not match</string>
+    <string name="shared_preferences">tonyjmnz.splitmate.shared_preferences</string>
+    <string name="user_id">userId</string>
+    <string name="logout">Sign out</string>
+    <string name="new_splitgroup">New Splitgroup</string>
+    <string name="no_splitgroup">You haven\'t joined any splitgroups, create one or ask your friends to add you to theirs!</string>
+    <string name="members">Members</string>
+    <string name="splitgroup_name">Splitgroup name</string>
+    <string name="new_member_email">New member email</string>
+    <string name="add_member">Add new member</string>
+    <string name="me">Me</string>
+    <string name="create_group">Create group</string>
+    <string name="already_in_group">This member is already on the list</string>
+    <string name="groupname_empty">The group name cannot be empty</string>
+    <string name="invite_member">Invite Member</string>
+    <string name="expenses_for">Expenses for</string>
+    <string name="my_status">My status:</string>
+    <string name="new_expense">Create new expense</string>
+    <string name="paid_by">Paid by</string>
+    <string name="owed_by">Owed by</string>
+    <string name="paid_by_me">Paid by me:</string>
+    <string name="create_expense">Create expense</string>
+    <string name="split_evenly">Split evenly</string>
+    <string name="split_custom">Split custom</string>
+    <string name="empty_cost">Expense cannot be empty</string>
+    <string name="cost_too_low">The cost is too low</string>
+    <string name="costs_dont_match">Costs do not match</string>
+    <string name="expense_desc">Description of the expense</string>
+    <string name="expense_cost">Cost</string>
+    <string name="empty_desc">The description cannot be empty</string>
+    <string name="email_empty">The new member\'s email cannot be empty.</string>
+    <string name="select_a_group">Select a group</string>
+    <string name="select_a_member">Select a member</string>
+    <string name="that_member">That member</string>
+    <string name="is_owed">is owed</string>
+    <string name="owes">owes</string>
+    <string name="you">You</string>
+    <string name="owe">owe</string>
+    <string name="are_owed">are owed</string>
+    <string name="payment_processed">Your payment has been processed</string>
+
+</resources>
